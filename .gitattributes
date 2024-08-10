@@ -1,2 +1,2 @@
 * linguist-vendored
-*.kts linguist-vendored=false
+*.kts linguist-vendored=true
