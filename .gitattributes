@@ -1,0 +1,2 @@
+* linguist-vendored
+*.kts linguist-vendored=false
